@@ -14,5 +14,5 @@
 
 <div>
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Miles&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blueIsaac1&repo=github-readme-stats)](https://github.com/blueIsaac1/github-readme-stats)
 </div>
