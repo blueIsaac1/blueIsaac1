@@ -12,7 +12,3 @@
 
 <hr>
 
-<div>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blueIsaac1&repo=github-readme-stats)](https://github.com/blueIsaac1/github-readme-stats)
-</div>
