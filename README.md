@@ -8,7 +8,7 @@
 
 ## My Stack:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,vscode,github,kali,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,python,django,mysql,github,bootstrap,kali,linux" />
 
 <hr>
 
