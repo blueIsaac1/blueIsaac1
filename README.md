@@ -8,7 +8,10 @@
 
 ## My Stack:
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,python,django,mysql,github,kali,linux" />
+## IDE's & Freatures:
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
+## Languages:
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,js,java,django,flask,react" />
 
 <hr>
 
