@@ -10,6 +10,7 @@
 
 ## IDE's & Freatures:
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
+
 ## Languages:
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,js,java,django,flask,react" />
 
