@@ -12,6 +12,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
 
 ## Languages & Framework:
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,js,java" /><p> </p><img src="https://skillicons.dev/icons?i=django,flask,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,js,java" /><a> </a><img src="https://skillicons.dev/icons?i=django,flask,react" />
 <hr>
 
