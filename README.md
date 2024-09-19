@@ -2,7 +2,7 @@
 
 -  I’m currently working on back-end and cybersecurity.
 -  I’m currently learning HTML, CSS, JavaScript and Python.
--  My main stack is cybersecurity, back-end and devops.
+-  My main stack is back-end development, linux and rdb.
    
 <hr>
 
