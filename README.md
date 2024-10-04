@@ -6,7 +6,6 @@
    
 <hr>
 
-<iframe src="https://giphy.com/embed/Zebztgv7jmkoLe1DoY" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/rocrijnijssel-computer-coding-html-Zebztgv7jmkoLe1DoY"></a></p>
 
 
 ## My Stack:
