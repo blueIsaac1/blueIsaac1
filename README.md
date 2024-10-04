@@ -5,10 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact)
 
-
-
-## My Stack:
-
 ## IDE's & Freatures:
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
 
