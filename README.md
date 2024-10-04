@@ -1,12 +1,12 @@
-## My name is isaac:
+## My name is isaac: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+</em></p>
 
 -  I’m currently working on back-end.
 -  I’m currently learning Python, Java, Javascript
 -  My main stack is back-end development, linux and rdb.
    
 <hr>
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 ## My Stack:
 
