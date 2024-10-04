@@ -1,11 +1,10 @@
-## My name is isaac: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+## My name is isaac: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
--  I’m currently working on back-end.
--  I’m currently learning Python, Java, Javascript
--  My main stack is back-end development, linux and rdb.
-   
-<hr>
+![blueIsaac1 GitHub stats](https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact)
+
 
 
 ## My Stack:
