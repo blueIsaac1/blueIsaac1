@@ -5,7 +5,7 @@
 -  My main stack is back-end development, linux and rdb.
    
 <hr>
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a 
 ## My Stack:
 
 ## IDE's & Freatures:
