@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=hidden" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&hide_progress=true" width="300"/>
 
 </div>
 
