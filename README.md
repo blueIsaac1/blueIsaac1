@@ -1,30 +1,35 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="380" height="243" alt="Smolverse GIF">
-
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="380" height="243" alt="Smolverse GIF" />
+  
+  <h1>blueIsaac1 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+  
   <div id="badges">
-  <a href="https://br.linkedin.com/in/isaac-cleiton-41938225b">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Badge"/>
-  </a>
-   <a href="mailto:isaaccleitondasilva@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
-   <h1>
-  blueIsaac1
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    <a href="https://br.linkedin.com/in/isaac-cleiton-41938225b">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:isaaccleitondasilva@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
+    </a>
+  </div>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&hide_progress=true&exclude=html,css" width="300"/>
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&hide_progress=true&exclude=html,css" width="300" alt="Top Languages" />
 </div>
 
-## IDE's & Freatures:
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
+---
 
-## Languages & Framework:
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,java,php" /><a>ㅤㅤ</a><img src="https://skillicons.dev/icons?i=django,flask,react,laravel" />
-<hr>
+## 🛠️ IDEs & Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" alt="IDEs & Ferramentas" />
+</div>
+
+## 💻 Linguagens & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,java,php" alt="Linguagens" />
+  <a>ㅤㅤ</a>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,laravel" alt="Frameworks" />
+</div>
+
+---
 
