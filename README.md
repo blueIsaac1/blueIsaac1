@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="380" height="243" alt="Smolverse GIF" />
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="280" height="143" alt="Smolverse GIF" />
   
   <h1>blueIsaac1 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
   
