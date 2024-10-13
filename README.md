@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="480" height="343" alt="Smolverse GIF">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="380" height="243" alt="Smolverse GIF">
 
   <div id="badges">
   <a href="https://br.linkedin.com/in/isaac-cleiton-41938225b">
