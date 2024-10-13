@@ -12,11 +12,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-  
+
+<div align="justify">
 ![blueIsaac1 GitHub stats](https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact) 
-
+</div>
 ## IDE's & Freatures:
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
 
