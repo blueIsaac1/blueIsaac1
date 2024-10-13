@@ -9,6 +9,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
 
 ## Languages & Framework:
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,java" /><a>ㅤㅤ</a><img src="https://skillicons.dev/icons?i=django,flask,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,java,php" /><a>ㅤㅤ</a><img src="https://skillicons.dev/icons?i=django,flask,react,laravel" />
 <hr>
 
