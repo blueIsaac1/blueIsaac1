@@ -13,7 +13,7 @@
 </h1>
 </div>
 
-<div align="justify">
+<div align="justify" width="100">
  
 ![blueIsaac1 GitHub stats](https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical)
 
