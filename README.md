@@ -15,7 +15,8 @@
 
 <div align="justify" width="100">
  
-![blueIsaac1 GitHub stats](https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical)
+![blueIsaac1 GitHub stats]
+<img src="https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact) 
 </div>
