@@ -15,8 +15,8 @@
 
 <div align="justify" width="100">
  
-<img src="https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical" width="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact" width="100"/>
+<img src="https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact" width="300"/>
 
 </div>
 ## IDE's & Freatures:
