@@ -15,10 +15,8 @@
 
 <div align="justify" width="100">
  
-![blueIsaac1 GitHub stats]
-<img src="https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact) 
+<img src="https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&include_all_commits=true&theme=radical" width="100"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact" width="100"/>
 </div>
 ## IDE's & Freatures:
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" />
