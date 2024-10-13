@@ -4,6 +4,9 @@
   <a href="https://br.linkedin.com/in/isaac-cleiton-41938225b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Badge"/>
   </a>
+   <a href="mailto:isaaccleitondasilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
 </div>
 
 </div>
