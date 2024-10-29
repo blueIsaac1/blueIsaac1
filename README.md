@@ -20,7 +20,7 @@
 
 ## 🛠️ IDEs & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linux,kali,raspberrypi,linkedin,github" alt="IDEs & Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,mysql,sqlite" alt="IDEs & Ferramentas" />
 </div>
 
 ## 💻 Linguagens & Frameworks
