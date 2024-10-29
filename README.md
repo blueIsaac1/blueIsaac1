@@ -25,7 +25,7 @@
 
 ## 💻 Linguagens & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,java,php" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,java,php" alt="Linguagens" />
   <a>ㅤㅤ</a>
   <img src="https://skillicons.dev/icons?i=django,flask,react,laravel" alt="Frameworks" />
 </div>
