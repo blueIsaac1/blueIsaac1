@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&hide_progress=true&exclude=html,css" width="300" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact/>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="280" height="143" alt="Smolverse GIF" />
 </div>
 
