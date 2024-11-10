@@ -1,8 +1,4 @@
 <div id="header" align="center">
-  <h1>
-    blueIsaac1 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  </h1>
   <div id="badges">
     <a href="https://br.linkedin.com/in/isaac-cleiton-41938225b">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -14,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact"/>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="280" height="143" alt="Smolverse GIF" />
 </div>
 
