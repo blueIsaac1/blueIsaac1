@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,java,php" alt="Linguagens" />
   <a>ㅤㅤ</a>
-  <img src="https://skillicons.dev/icons?i=django,flask,react,laravel" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,laravel" alt="Frameworks" />
 </div>
 
 ## 🚀 DataBase
