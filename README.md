@@ -14,16 +14,21 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="280" height="143" alt="Smolverse GIF" />
 </div>
 
-## 🛠️ IDEs & Ferramentas
+## 🛠️ Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,mysql,sqlite,git" alt="IDEs & Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,git" alt="Tools" />
 </div>
 
-## 💻 Linguagens & Frameworks
+## 💻 Linguages & Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,java,php" alt="Linguagens" />
   <a>ㅤㅤ</a>
   <img src="https://skillicons.dev/icons?i=django,flask,react,laravel" alt="Frameworks" />
+</div>
+
+## 🚀 DataBase
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" alt="Linguagens" />
 </div>
 
 ---
