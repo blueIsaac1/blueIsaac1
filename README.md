@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,git" alt="Tools" />
 </div>
 
-## 💻 Linguages & Frameworks
+## 💻 Languages & Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,java,php" alt="Linguagens" />
   <a>ㅤㅤ</a>
