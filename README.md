@@ -21,14 +21,14 @@
 
 ## 💻 Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,java,php" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php" alt="Linguagens" />
   <a>ㅤㅤ</a>
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,laravel" alt="Frameworks" />
 </div>
 
 ## 🚀 DataBase
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,mongodb," alt="Linguagens" />
 </div>
 
 ---
