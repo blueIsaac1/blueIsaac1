@@ -28,7 +28,7 @@
 
 ## 🚀 DataBase
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,docker" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker" alt="Linguagens" />
 </div>
 
 ---
