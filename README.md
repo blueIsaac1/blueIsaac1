@@ -16,7 +16,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,git,n8n" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,git" alt="Tools" />
 </div>
 
 ## 💻 Languages & Frameworks
