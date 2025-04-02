@@ -1,12 +1,10 @@
 # 👋 Olá! Eu sou o Isaac!
 
-🔹 **Desenvolvedor Back-end** apaixonado por tecnologia e inovação.  
-🔹 Trabalho com **Python, Java e frameworks web**.  
-🔹 Atualmente desenvolvendo projetos com **Django, Flask e FastAPI**.  
-🔹 Também gosto de explorar **bancos de dados SQL e NoSQL** e automações com **n8n**.
+🔹 **Desenvolvedor Back-end** apaixonado por tecnologia e inovação.
+🔹Atualmente desenvolvendo **Automações e Projetos Web**.
+🔹Maior prática com **Python**.
 
-## 🛠️ Ferramentas  
-- 🖥️ **VSCode**  
+## 🛠️ Ferramentas   
 - 🐧 **Linux**  
 - 🐳 **Docker**  
 - ☁️ **AWS / Azure**  
