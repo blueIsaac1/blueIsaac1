@@ -23,12 +23,12 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php" alt="Linguagens" />
   <a>ㅤㅤ</a>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,laravel,bots," alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,laravel" alt="Frameworks" />
 </div>
 
 ## 🚀 DataBase
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,mongodb,redis" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,mongodb,redis," alt="Linguagens" />
 </div>
 
 ---
