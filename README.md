@@ -1,10 +1,8 @@
 # 👋 Olá! Eu sou o Isaac!
 
-🔹**Desenvolvedor Back-end** apaixonado por tecnologia e inovação.
+🔹**Desenvolvedor Back-end**, atualmente desenvolvendo **Automações e Projetos Web**.
 
-🔹Atualmente desenvolvendo **Automações e Projetos Web**.
-
-🔹Maior prática com **Python**.
+🔹**Python** is life.
 
 ## 🛠️ Ferramentas   
 - 🐧 **Linux**  
