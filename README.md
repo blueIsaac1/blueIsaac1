@@ -26,7 +26,7 @@
 - 🔴 **Redis**  
 
 ## 📫 Contato  
-📩 [Email](mailto:isaaccleitondasilva@gmail.com) | 🔗 [LinkedIn](https://br.linkedin.com/in/isaac-cleiton-41938225b)  
+📩 [Email](mailto:ti.professional.isaac@gmail.com) | 🔗 [LinkedIn](https://br.linkedin.com/in/isaac-cleiton-41938225b)  
 
 ---
 💡 *Sempre aprendendo e explorando novas tecnologias!*
