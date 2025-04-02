@@ -4,13 +4,13 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="mailto:isaaccleitondasilva@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a>
   </div>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueIsaac1&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blueIsaac1&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="280" height="143" alt="Smolverse GIF" />
 </div>
 
@@ -28,7 +28,12 @@
 
 ## 🚀 DataBase
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Bancos de Dados" />
+</div>
+
+## 🔥 Featured Projects
+<div align="center">
+  🚧 Em breve! (Aqui você pode listar alguns projetos com links e descrições)
 </div>
 
 ---
