@@ -16,7 +16,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,git,docker,aws,azure," alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,raspberrypi,github,git,docker,aws,azure" alt="Tools" />
 </div>
 
 ## 💻 Languages & Frameworks
@@ -28,7 +28,7 @@
 
 ## 🚀 DataBase
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis," alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Linguagens" />
 </div>
 
 ---
