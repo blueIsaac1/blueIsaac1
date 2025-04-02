@@ -1,29 +1,32 @@
-## 🛠️ Tools  
-- 🖥️ **VSCode**
-- 🐧 **Linux**
-- 🔷 **Kali Linux**
-- 🍓 **Raspberry Pi**
-- 🐙 **GitHub**
-- 🔗 **Git**
-- 🐳 **Docker**
-- ☁️ **AWS**
-- 🔵 **Azure**
+# 👋 Olá! Eu sou o Isaac!
 
-## 💻 Languages & Frameworks  
+🔹 **Desenvolvedor Back-end** apaixonado por tecnologia e inovação.  
+🔹 Trabalho com **Python, Java e frameworks web**.  
+🔹 Atualmente desenvolvendo projetos com **Django, Flask e FastAPI**.  
+🔹 Também gosto de explorar **bancos de dados SQL e NoSQL** e automações com **n8n**.
+
+## 🛠️ Ferramentas  
+- 🖥️ **VSCode**  
+- 🐧 **Linux**  
+- 🐳 **Docker**  
+- ☁️ **AWS / Azure**  
+- 🕵️‍♂️ **Postman**  
+- 🔄 **n8n (Automação de Fluxos de Trabalho)**  
+
+## 💻 Linguagens & Frameworks  
 - 🌐 **HTML5**, **CSS3**, **JavaScript**  
 - 🐍 **Python**, ☕ **Java**, 🟣 **PHP**  
-- 🏗️ **Django**, **FastAPI**, **Flask**, **React**, **Laravel**  
+- 🎯 **Django**, **FastAPI**, **Flask**, **React**, **Laravel**  
 
-## 🚀 Databases  
+## 🚀 Bancos de Dados  
 - 🐬 **MySQL**  
 - 🐘 **PostgreSQL**  
 - 🔹 **SQLite**  
 - 🍃 **MongoDB**  
 - 🔴 **Redis**  
 
-## 🛠️ Tools  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</div>
+## 📫 Contato  
+📩 [Email](mailto:isaaccleitondasilva@gmail.com) | 🔗 [LinkedIn](https://br.linkedin.com/in/isaac-cleiton-41938225b)  
+
+---
+💡 *Sempre aprendendo e explorando novas tecnologias!*
