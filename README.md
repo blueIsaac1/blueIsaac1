@@ -1,9 +1,3 @@
-# 👋 Olá! Eu sou o Isaac!
-
-🔹**Desenvolvedor**, atualmente desenvolvendo **Automações e Projetos Web**.
-
-🔹**Python**.
-
 ## 🛠️ Ferramentas   
 - 🐧 **Linux**  
 - 🐳 **Docker**  
