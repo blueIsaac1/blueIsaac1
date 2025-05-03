@@ -5,7 +5,7 @@
 - 🕵️‍♂️ **Postman**  
 - 🔄 **n8n (Automação de Fluxos de Trabalho)**  
 
-## 💻 languages & Frameworks  
+## 💻 Languages & Frameworks  
 - 🌐 **HTML5**, **CSS3**, **JavaScript**  
 - 🐍 **Python**, ☕ **Java**, 🟣 **PHP**  
 - 🎯 **Django**, **FastAPI**, **Flask**, **React**, **Laravel**  
